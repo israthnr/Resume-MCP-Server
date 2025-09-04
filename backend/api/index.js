@@ -9,7 +9,7 @@ const __dirname = path.dirname(__filename);
 
 // Load resume data
 const resumeData = JSON.parse(
-  readFileSync(path.join(__dirname, '../../data/resume.json'), "utf-8")
+  readFileSync(path.join(__dirname, "../../data/resume.json"), "utf-8")
 );
 
 const app = createExpressServer(resumeData);
