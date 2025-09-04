@@ -1,0 +1,151 @@
+{
+  "personalInfo": {
+    "name": "Rahna Israth",
+    "email": "rahnaisrath1999@gmail.com",
+    "phone": "+94 769 657 866",
+    "linkedin": "https://www.linkedin.com/in/rahna-israth-0b6995230/",
+    "github": "https://github.com/israthnr",
+    "portfolio": "https://medium.com/@rahnaisrath1999"
+  },
+  "profile": "Motivated IT graduate with a BSc (Hons) in IT, with hands-on experience in software development and a solid academic foundation. Skilled in designing efficient systems, solving complex problems, and delivering high-quality, user-focused applications. Passionate about continuous learning, adapting to new technologies, and contributing to impactful projects through creativity, collaboration, and strong technical expertise.",
+  "experience": [
+    {
+      "company": "FatBeehive",
+      "position": "Junior Developer",
+      "duration": "July 2024 - Nov 2024",
+      "responsibilities": [
+        "Resolved platform bugs and managed deployments on Platform.sh",
+        "Ensured code quality using Jira and Bitbucket",
+        "Contributed to ticket lifecycle for timely resolution"
+      ]
+    },
+    {
+      "company": "ILT Software",
+      "position": "Software Engineer Intern",
+      "duration": "Jan 2024 - Jun 2024",
+      "responsibilities": [
+        "Built full-stack web applications using the MERN stack with React.js UI",
+        "Collaborated with team for smooth project delivery",
+        "Participated in full SDLC from design to testing"
+      ]
+    },
+    {
+      "company": "Cloud Solution International (UoM 2nd Year SE Project)",
+      "position": "Full Stack Developer",
+      "duration": "Jun 2022 - Jun 2023",
+      "responsibilities": [
+        "Developed Low Code No Code Platform enabling non-coders to build apps",
+        "Built responsive front-end interfaces",
+        "Developed backend and database operations"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "BSc (Hons) in Information Technology",
+      "school": "University of Moratuwa",
+      "year": "2021 - 2025",
+      "cgpa": "3.14"
+    },
+    {
+      "degree": "NVQ Level 04 - ICT",
+      "school": "KIIT",
+      "year": "2019 - 2020"
+    },
+    {
+      "degree": "G.C.E. Advanced Level - Biological Science Stream (BBC)",
+      "school": "T/Zahira College",
+      "year": "2016 - 2019"
+    },
+    {
+      "degree": "G.C.E. Ordinary Level - 8A 1B",
+      "school": "T/Kinniya Muslim Ladies College",
+      "year": "2005 - 2015"
+    }
+  ],
+  "skills": [
+    "C", "Python", "Java", "JavaScript", "PHP", "HTML", "CSS",
+    "ReactJS", "Node.js", "Spring Boot", "Tailwind CSS",
+    "MongoDB", "MySQL", "PostgreSQL", "Firebase",
+    "Sass", "Postman", "Insomnia", "WordPress",
+    "Figma", "AWS", "Docker", "Linux", "Git",
+    "Bitbucket", "Jira", "Agile Practices",
+    "Salesforce", "Blockchain", "ML", "AI"
+  ],
+  "projects": [
+    {
+      "name": "AI-Blockchain Powered Supply Chain Management for Perishable Vegetables",
+      "description": "Enhanced agricultural decision-making, optimized logistics, and ensured transparency with AI-driven demand forecasting, crop recommendation, and blockchain traceability.",
+      "role": "Researcher, Full Stack Developer",
+      "technologies": ["ML", "Python", "PostgreSQL", "Blockchain"]
+    },
+    {
+      "name": "Low Code No Code Platform",
+      "description": "Platform for non-coders to create and showcase web applications.",
+      "role": "Full Stack Developer",
+      "technologies": ["ReactJS", "MongoDB", "ExpressJS", "NodeJS", "SASS", "Figma"]
+    },
+    {
+      "name": "Doctor Appointment Booking System",
+      "description": "Implemented multi-level authentication for patients, doctors, and admins with payment gateway integration.",
+      "role": "Full Stack Developer",
+      "technologies": ["ReactJS", "NodeJS", "MongoDB", "Tailwind CSS"]
+    },
+    {
+      "name": "Task Manager Application",
+      "description": "Backend system for task creation, dashboards, priority tracking, and team collaboration.",
+      "role": "Backend Developer",
+      "technologies": ["NodeJS", "MongoDB"]
+    },
+    {
+      "name": "Automated Rice Cooker",
+      "description": "Designed an automated system to optimize the rice cooking process.",
+      "role": "Embedded Developer",
+      "technologies": ["C"]
+    },
+    {
+      "name": "Artisan & SME Gateway",
+      "description": "Salesforce + Agentforce AI agents to onboard artisans, optimize product listings, and assist with shopping.",
+      "role": "AI Agent Designer & Developer",
+      "technologies": ["Salesforce", "Agentforce AI", "Flow Builder", "Apex", "LLM-powered Actions"]
+    }
+  ],
+  "certifications": [
+    "Web Design for Beginners - UOM",
+    "Frontend Development - UOM",
+    "Python for Beginners - UOM",
+    "Microsoft Azure ML, AI, NLP, Computer Vision",
+    "C - Sololearn",
+    "SQL - Sololearn",
+    "HTML - Sololearn",
+    "React - HackerRank"
+  ],
+  "softSkills": [
+    "Leadership", "Volunteering", "Problem Solving",
+    "Analytical Thinking", "Solution-Oriented",
+    "Flexibility", "Communication", "Public Speaking",
+    "Event Management", "Time Management"
+  ],
+  "activities": [
+    "Member - IEEE Industrial Application Society, University of Moratuwa",
+    "Mora UXplore 1.0 (2023) - Team Handling & Publicity",
+    "Hackforce23 Salesforce - Winner (Special Category)",
+    "CodeRush 2023 - Participation",
+    "Panel Co-Ordinator - Career Fair (2023)",
+    "Bashaway 2022 - Participation"
+  ],
+  "referees": [
+    {
+      "name": "Mr. Mohamed Rilfi",
+      "position": "Senior Software Engineer",
+      "company": "Intervest Software Technologies Pvt Ltd",
+      "contact": "rilfi@live.com, +94 77 628 4627"
+    },
+    {
+      "name": "Dr. Mohamed F.M. Firdhous",
+      "position": "Senior Lecturer",
+      "company": "Faculty of IT, University of Moratuwa",
+      "contact": "firdhous@uom.lk"
+    }
+  ]
+}
